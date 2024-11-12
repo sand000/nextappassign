@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "buy some apple"
+    },
+    {
+      "id": "3",
+      "text": "buy some grapes"
+    },
+    {
+      "id": "4",
+      "text": "buy some banana"
+    },
+    {
+      "id": "6",
+      "text": "buy pencils"
+    },
+    {
+      "id": "3e8e81b7-3763-4b11-8a8e-5e5a11bfad8c",
+      "text": "throw garbage"
+    },
+    {
+      "id": "ca3ab98e-bcb5-434b-a803-8bc8738e5537",
+      "text": "buy some vegetables"
+    },
+    {
+      "id": "8f0748c5-a7f4-431c-9c69-54dfd23368db",
+      "text": "bring cartoons"
+    }
+  ]
+}
